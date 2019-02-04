@@ -17,6 +17,6 @@
 ![screen shot 2019-02-04 at 1 10 11 pm](https://user-images.githubusercontent.com/37079656/52236470-2e5aaf80-2884-11e9-9338-af097850640b.png)
 
 ## Our Screenshots
-![screenshot](mobile-screenshot.png)
 ![screenshot](desktop-view-screenshot.png)
+![screenshot](mobile-screenshot.png)
 
