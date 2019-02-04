@@ -18,5 +18,5 @@
 
 ## Our Screenshots
 ![screenshot](mobile-screenshot.png)
-![screenshot] (desktop-view-screenshot.png)
+![screenshot](desktop-view-screenshot.png)
 
