@@ -1,0 +1,26 @@
+* {
+  font-family: Open Sans, sans-serif;
+}
+
+.header-section {
+  background-color: #4f6367;
+  color: #b8d8d8;
+  border-bottom: 15px solid #ff6d54;
+}
+
+.main-section {
+  background-color: #7a9e9f;
+}
+
+.card {
+  width: 40%;
+  background-color: #eef5db;
+}
+
+.card-header {
+  background-color: #4f6367;
+  color: #b8d8d8;
+  border-bottom: 2px solid #ff6d54;
+}
+
+
