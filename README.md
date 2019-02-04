@@ -8,8 +8,8 @@
 
 ## Font
   -Open Sans Extra Bold
-  '<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet">'
-
+  https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:400,800
+  
 ## Desktop comp
 ![screen shot 2019-02-04 at 1 07 47 pm](https://user-images.githubusercontent.com/37079656/52236523-52b68c00-2884-11e9-8041-8a74487dc1c9.png)
 
